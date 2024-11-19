@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Mojo 🔥
 - 👯 I’m looking to collaborate in Open Source development.
 - 💬 Ask me about understanding model internals.
-- 😄 Pronouns: They | Them.
+- 😄 Pronouns: He | They.
