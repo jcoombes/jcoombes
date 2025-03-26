@@ -1,4 +1,4 @@
-### Thanks for stopping by 👋
+### Hi there 👋
 
 - 📈 I’m currently working with **Coefficient.ai** | How can AI solve your business problems?
 - ⏱️ I’m currently learning **Asynchronous Rust** for my next conference talk.
