@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 📈 I’m currently working with Coefficient | How can AI solve your business problems?
-- ⏱️ I’m currently learning Asynchronous Rust for my next conference talk.
-- 👯 I’m looking to collaborate on AI Alignment.
-- 💬 Ask me about co-authoring and maintaining [obvs](https://obvs.readthedocs.io/en/latest/autoapi/obvs/lenses/index.html): An Interpretability Library that helps Make Transformers Obvious.
+- 📈 I’m currently working with *Coefficient* | How can AI solve your business problems?
+- ⏱️ I’m currently learning *Asynchronous Rust* for my next conference talk.
+- 👯 I’m looking to collaborate on *AI Alignment*.
+- 💬 Ask me about *co-authoring* and *maintaining* [obvs](https://obvs.readthedocs.io/en/latest/autoapi/obvs/lenses/index.html): An *Interpretability Library* that helps Make Transformers Obvious.
 
 ### Conference Talks
 
