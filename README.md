@@ -10,7 +10,7 @@
 🦀 2025 [Rüstzeit: Asynchronous Concurrency in Python & Rust](https://2025.pycon.de/talks/FGFFEE/) - PyCon DE.
 
 🔥 2024 [Mojo: Is it Python's faster cousin or just hype?](https://www.youtube.com/watch?v=A67P4-A4yLk
-)) - PyData Berlin
+) - PyData Berlin
 
 🐍 2023 [Language Model Zen](https://www.youtube.com/watch?v=hyUWefY40iw
 ) - Europython Prague.
